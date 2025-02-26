@@ -89,7 +89,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-12 pt-8 border-t border-gray-800 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} Redlion. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Redlion. All rights reserved.(Website build by SpecificXperts CC.)</p>
         </div>
       </div>
     </footer>
